@@ -1,1 +1,230 @@
 /* You can add global styles to this file, and also import other style files */
+.bg-black {
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+.bg-yellow {
+  background-color: yellow;
+}
+
+.bg-red {
+  background-color: red;
+}
+
+.bg-green {
+  background-color: green;
+}
+
+.bg-green-light {
+  background-color: limegreen;
+}
+
+.bg-white {
+  background-color: white;
+}
+
+body {
+  margin: 0;
+}
+
+.bg-primary {
+  background-color: #14408d;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.align-center {
+  align-items: center;
+}
+
+.shadow {
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.flex {
+  display: flex;
+}
+
+.flex-row {
+  flex-direction: row;
+}
+
+.flex-col {
+  flex-direction: column;
+}
+
+.w-full {
+  width: 100%;
+}
+
+.flex-auto {
+  flex: auto;
+}
+
+.text-white {
+  color: white;
+}
+
+.text-green {
+  color: forestgreen;
+}
+
+.text-red {
+  color: red;
+}
+
+.text-gray {
+  color: gray;
+}
+
+.font-bold {
+  font-weight: bold;
+}
+.p-5 {
+  padding: 5px;
+}
+
+.pt-3 {
+  padding-top: 3px;
+}
+
+.pt-5 {
+  padding-top: 5px;
+}
+
+
+.py-3 {
+  padding-block: 3px;
+}
+
+.py-5 {
+  padding-block: 5px;
+}
+
+.px-2 {
+  padding-inline: 2px;
+}
+
+.py-8 {
+  padding-block: 8px;
+}
+
+.py-10 {
+  padding-block: 10px;
+}
+
+.py-3p {
+  padding-block: 3%;
+}
+
+.p-3 {
+  padding: 3px;
+}
+
+.flex-1 {
+  flex: 1;
+}
+
+.flex-2 {
+  flex: 2;
+}
+
+.flex-3 {
+  flex: 3;
+}
+
+.h-5p {
+  height: 5%;
+}
+
+.h-6p {
+  height: 6%;
+}
+
+.h-8p {
+  height: 8%;
+}
+
+.h-10p {
+  height: 10%;
+}
+
+.h-14p {
+  height: 14%;
+}
+
+.h-15p {
+  height: 15%;
+}
+
+.h-20p {
+  height: 20%;
+}
+
+.h-30p {
+  height: 30%;
+}
+
+.h-40p {
+  height: 40%;
+}
+
+.h-50p {
+  height: 50%;
+}
+
+.h-60p {
+  height: 60%;
+}
+
+.h-65p {
+  height: 65%;
+}
+
+.h-70p {
+  height: 70%;
+}
+
+.h-80p {
+  height: 80%;
+}
+
+.h-90p {
+  height: 90%;
+}
+
+.h-full {
+  height: 100%;
+}
+
+.w-10p {
+  width: 10%;
+}
+
+.w-20p {
+  width: 20%;
+}
+
+.w-25p {
+  width: 25%;
+}
+
+.w-50p {
+  width: 50%;
+}
+
+.w-75p {
+  width: 75%;
+}
+
+.w-80p {
+  width: 80%;
+}
+
+
